@@ -1,0 +1,9 @@
+Flask
+Pillow
+pytesseract
+pymongo
+flask-cors
+python-dotenv
+Flask-Login
+Werkzeug
+Flask-JWT-Extended
