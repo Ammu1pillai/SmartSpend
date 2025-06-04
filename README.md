@@ -46,6 +46,7 @@ Installation Steps
 Clone the repository:
 
 git clone <https://github.com/Ammu1pillai/SmartSpend.git/>
+
 cd SmartSpendAnalyser/BACKEND_1/app
 
 
@@ -68,14 +69,23 @@ Install dependencies:
 Create a requirements.txt file in your backend/app directory (if you don't have one) with the following content:
 
 Flask
+
 pymongo
+
 python-dotenv
+
 Flask
+
 Pillow
+
 pytesseract
+
 flask-cors
+
 Flask-Login
+
 Werkzeug
+
 Flask-JWT-Extended
 
 Then install them:
