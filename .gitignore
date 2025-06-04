@@ -1,5 +1,8 @@
-# Node.js dependencies
+# Node.js dependencies (if you have a frontend project)
 node_modules/
+FRONTEND_1/node_modules/ # If your frontend is inside FRONTEND_1
+
+# Environment variables
 .env
 
 # Python dependencies and environment
@@ -8,6 +11,11 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .ipynb_checkpoints/
+
+# Large/unnecessary files from your status output
+Demo_Video.mp4 # Consider hosting this on YouTube/Vimeo and linking in README
+kagle images/  # Likely data or temporary files, usually ignored
+tessaract_installed/ # This is an installation, should NEVER be committed
 
 # Operating System files
 .DS_Store
