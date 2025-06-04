@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+.env
+
+# Python dependencies and environment
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (e.g., VS Code)
+.vscode/
