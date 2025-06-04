@@ -1,4 +1,5 @@
 SmartSpendAnalyser
+
 SmartSpendAnalyser is a Python Flask application that automates expense tracking. It processes uploaded receipt images using OCR, intelligently categorizes spending (e.g., Travel, Personal Care, Education) into a MongoDB database, and provides users with clear, categorized financial insights.
 
 Features
